@@ -1,0 +1,4 @@
+#EXTM3U list-name=”EL NOMBRE DE MI LISTA” list-image=”https://waveplayer.app/logo.png”
+
+#EXTINF:-1 tvg-logo=”https://waveplayer.app/img/logo-test.png” tvg-group=”VIDEOS”, Video de prueba
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
