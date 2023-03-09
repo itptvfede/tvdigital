@@ -2819,6 +2819,9 @@ https://videohd.live:19360/8090/8090.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dz3UVPn.png" group-title="Papelera", Telecreativa | SD | Lanús
 https://panel.dattalive.com/8012/8012/chunklist_w1909279630.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vgnhqYa.png" group-title="Papelera", Telesol | HD | San Juan
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="ENLACE DEL LOGO" tvg-group="CATEGOR
+https://dtvott-abc.akamaized.net/dash_live_1263/manifest.mpd
