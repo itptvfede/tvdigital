@@ -19,7 +19,7 @@ Kit#EXTM3U
 https://i.imgur.com/qRolRIi.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NKxvgdt.png" group-title="Chile", -wowtv
-https://edge-vod03-hr.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
+https://edge-vod03-hr.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eb0Hhn.png" group-title="Chile", UCV  | HD | Valparaíso
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
