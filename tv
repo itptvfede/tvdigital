@@ -1065,7 +1065,7 @@ https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/TruTV.json
+#KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/VTV_Plus.json
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1260.png" tvg-group="Papelera", TruTV 
 https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc_2A/VTV_Plus_HD.mpd
 
