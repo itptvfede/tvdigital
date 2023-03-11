@@ -1067,7 +1067,7 @@ https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZVPyqST/directv-sports-2.jpg" tvg-group="Papelera", DIRECTV SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtv2.json
-https://dtvott-abc.akamaized.net/dash_live_1225/dash/1225_TN_NOTICIAS-audio_72882_spa=72400-80570877040761.dash
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias-avc1_379968=10005-scale=30000-7754704628547.mp4
 
 
 
