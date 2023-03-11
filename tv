@@ -1064,6 +1064,7 @@ https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wct9jsp.png" group-title="Infantiles", MONITV | FHD | ARG
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/723.png" tvg-group="Papelera", WOBI TV 
-http://cdn.stg.cvattv.com.ar/live/live2/DiscoveryHomeHealthHD/SA_Live_fta/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wct9jsp.png" group-title="Papelera", TYC2 | FHD | ARG
+https://edge-live31-hr.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional-avc1_579968=10009-scale=30000-init.mp4
+
+
