@@ -1055,5 +1055,5 @@ https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvfigth.json
 https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vt424Nn.png" group-title="Papelera", PRUEBA | FHD | ARG
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CbCPNWj/wowtv.jpg" group-title="Papelera", WOWTV | FHD | ARG
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
