@@ -1057,3 +1057,8 @@ https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CbCPNWj/wowtv.jpg" group-title="Papelera", WOWTV | FHD | ARG
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NZVyfhC/RTMAGIC.jpg" group-title="Infantiles", RETRO MAGIC | FHD | ARG
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+
+
