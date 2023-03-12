@@ -1064,9 +1064,6 @@ https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wct9jsp.png" group-title="Infantiles", MONITV | FHD | ARG
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wct9jsp.png" group-title="Infantiles", prueba | FHD | ARG
+#EXTINF:-1 tvg-logo="ENLACE DEL LOGO" tvg-group="Infantiles", prueba
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks-avc1_379968=10005-scale=30000-7755523552438.mp4
-
-
 
